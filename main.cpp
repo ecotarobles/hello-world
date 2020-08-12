@@ -4,7 +4,7 @@
 // For more information, please refer to <http://unlicense.org/>.
 //
 #include <iostream>
-using std;
+using namespace std;
 
 int main(int argc, char **argv) {
   cout << "Hello, Cruel World!" << endl;
